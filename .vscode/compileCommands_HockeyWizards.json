@@ -1,0 +1,58 @@
+[
+	{
+		"file": "C:\\Users\\Treppyboy\\Documents\\Unreal Projects\\HockeyWizards\\Source\\HockeyWizards\\HockeyWizards.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Treppyboy\\Documents\\Unreal Projects\\HockeyWizards\\.vscode\\compileCommands_HockeyWizards\\HockeyWizards.255.rsp"
+		],
+		"directory": "E:\\UnrealEngine\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Treppyboy\\Documents\\Unreal Projects\\HockeyWizards\\Source\\HockeyWizards\\HockeyWizards.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Treppyboy\\Documents\\Unreal Projects\\HockeyWizards\\.vscode\\compileCommands_HockeyWizards\\HockeyWizards.255.rsp"
+		],
+		"directory": "E:\\UnrealEngine\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Treppyboy\\Documents\\Unreal Projects\\HockeyWizards\\Source\\HockeyWizards\\HockeyWizards.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Treppyboy\\Documents\\Unreal Projects\\HockeyWizards\\.vscode\\compileCommands_HockeyWizards\\HockeyWizards.255.rsp"
+		],
+		"directory": "E:\\UnrealEngine\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Treppyboy\\Documents\\Unreal Projects\\HockeyWizards\\Source\\HockeyWizards\\HockeyWizardsCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Treppyboy\\Documents\\Unreal Projects\\HockeyWizards\\.vscode\\compileCommands_HockeyWizards\\HockeyWizards.255.rsp"
+		],
+		"directory": "E:\\UnrealEngine\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Treppyboy\\Documents\\Unreal Projects\\HockeyWizards\\Source\\HockeyWizards\\HockeyWizardsCharacter.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Treppyboy\\Documents\\Unreal Projects\\HockeyWizards\\.vscode\\compileCommands_HockeyWizards\\HockeyWizards.255.rsp"
+		],
+		"directory": "E:\\UnrealEngine\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Treppyboy\\Documents\\Unreal Projects\\HockeyWizards\\Source\\HockeyWizards\\HockeyWizardsGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Treppyboy\\Documents\\Unreal Projects\\HockeyWizards\\.vscode\\compileCommands_HockeyWizards\\HockeyWizards.255.rsp"
+		],
+		"directory": "E:\\UnrealEngine\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Treppyboy\\Documents\\Unreal Projects\\HockeyWizards\\Source\\HockeyWizards\\HockeyWizardsGameMode.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Treppyboy\\Documents\\Unreal Projects\\HockeyWizards\\.vscode\\compileCommands_HockeyWizards\\HockeyWizards.255.rsp"
+		],
+		"directory": "E:\\UnrealEngine\\UE_5.1\\Engine\\Source"
+	}
+]
